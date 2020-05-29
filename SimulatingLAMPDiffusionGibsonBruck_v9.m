@@ -11,6 +11,7 @@
 %Update from v6 improving plotting
 %Update from v7 making sensors work with all subvolume sizes. Added input
 %checks
+%Update from v8 moving chip building and inut checks to the initialisation code
 
 addpath('LewisFunctions/');
 
